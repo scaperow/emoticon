@@ -1,0 +1,14 @@
+{
+  "name": "emoticon",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/face-api/",
+      "proxyUrl": "https://api-cn.faceplusplus.com/"
+    }
+  ]
+}
